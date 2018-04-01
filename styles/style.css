@@ -7,11 +7,11 @@
 body{
   font-family: 'Permanent Marker', cursive;
   /* Background */
-background-image: url("../images/banana.svg");
-background-repeat: repeat;
-background-position: center;
-background-size: 100px;
-animation: 5s background-transition linear 0s infinite;
+  background-image: url("../images/banana.svg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 100px;
+  animation: 5s background-transition linear 0s infinite;
 }
 body::after {
   content: "" ;
@@ -50,4 +50,28 @@ body::after {
   100%{
   background-position: -100px -100px;
   }
+}
+
+
+/* Componenetes */
+.header--container {
+  background-color: rgb(250, 225, 0);
+  color: rgb(29, 27, 1);
+  font-size: 20px;
+  font-weight: bold;
+  height: 60px;
+  padding-top: 20px;
+}
+.header--nav {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+.header--nav-link {
+  color: rgb(29, 27, 1);
+  text-decoration: none;
+}
+.header--nav-link:hover {
+  color: rgb(52, 49, 1);
 }
