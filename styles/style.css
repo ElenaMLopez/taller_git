@@ -32,6 +32,7 @@ body::after {
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
+  margin-bottom: 90px;
   width: 100%;
 }
 
@@ -53,7 +54,8 @@ body::after {
 }
 
 
-/* Componenetes */
+/* COMPONENTES */
+/* Header */
 .header--container {
   background-color: rgb(250, 225, 0);
   color: rgb(29, 27, 1);
@@ -75,3 +77,30 @@ body::after {
 .header--nav-link:hover {
   color: rgb(52, 49, 1);
 }
+/* Fin de Header */
+
+/* Footer */
+.footer--container {
+  background-color: rgba(250, 225, 0, 0.61);
+  color: rgb(29, 27, 1);
+  font-size: 16px;
+  font-weight: bold;
+  height: 50px;
+  padding-top: 15px;
+}
+.footer--list {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  margin-top: 10px;
+}
+.footer--link {
+  color: rgb(29, 27, 1);
+  text-decoration: none;
+}
+.footer--link {
+  color: rgb(52, 49, 1);
+}
+/* Fin del footer */
+/* NOTA: Se puede refactorizar, pero está así para el taller del día 19 ;) */
