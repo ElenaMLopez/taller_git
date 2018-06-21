@@ -87,7 +87,7 @@ body::after {
   font-weight: bold;
   height: 50px;
   padding-top: 15px;
-  margin-top: 33vh%;
+  margin-top: 33vh;
 }
 .footer--list {
   align-items: center;
