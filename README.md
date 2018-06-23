@@ -8,4 +8,4 @@ Repositorio de ejemplo para el taller de git
 
 ### Lista de participantes:
 
-Carlos J (carlos-havier) 
+Carlos J (carlos-havier)   
