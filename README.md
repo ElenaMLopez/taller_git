@@ -8,4 +8,6 @@ Repositorio de ejemplo para el taller de git
 
 ### Lista de participantes:
 
+
+Elena Mateos Lopéz,
 Marcos Truchado Martin
