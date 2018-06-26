@@ -13,5 +13,6 @@ Repositorio de ejemplo para el taller de git
 
 Elena Mateos Lopéz,
 Awes0meM4n,
-Marta Timon.
+Marta Timon,
+VaqueroFontenla,
 
