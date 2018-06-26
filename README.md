@@ -9,4 +9,18 @@ Repositorio de ejemplo para el taller de git
 
 ### Lista de participantes:
 
-Adrian de Palma
+
+
+
+Elena Mateos Lopéz,
+Awes0meM4n,
+Marta Timon,
+VaqueroFontenla,
+carlosmonzon2008,
+mandarinafly,
+Olatz Aranzabe,
+Alejandro Alvarez Gonzalez,
+Miguel Angel Alvarez Rodriguez,
+Adrian de Palma,
+
+
