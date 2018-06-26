@@ -7,7 +7,6 @@ Repositorio de ejemplo para el taller de git
 [Slides.com: Hello Git!!!](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-2)
 
 
-
 ### Lista de participantes:
 
 
@@ -19,4 +18,7 @@ carlosmonzon2008,
 mandarinafly,
 Olatz Aranzabe,
 Alejandro Alvarez Gonzalez,
+Miguel Angel Alvarez Rodriguez
+
+
 
