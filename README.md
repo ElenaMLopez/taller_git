@@ -8,4 +8,10 @@ Repositorio de ejemplo para el taller de git
 
 ### Lista de participantes:
 
+
+
+
+Elena Mateos Lopéz,
+Awes0meM4n,
 Marta Timon.
+
