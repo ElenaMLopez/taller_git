@@ -10,8 +10,6 @@ Repositorio de ejemplo para el taller de git
 ### Lista de participantes:
 
 
-
-
 Elena Mateos Lopéz,
 Awes0meM4n,
 Marta Timon,
@@ -22,5 +20,7 @@ Olatz Aranzabe,
 Alejandro Alvarez Gonzalez,
 Miguel Angel Alvarez Rodriguez,
 Adrian de Palma,
+Marcos Truchado Martin
+
 
 
