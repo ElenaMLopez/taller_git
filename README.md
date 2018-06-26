@@ -22,4 +22,6 @@ Alejandro Alvarez Gonzalez,
 Miguel Angel Alvarez Rodriguez,
 Adrian de Palma,
 Marcos Truchado Martin,
-Leonardo Gonzales
+Leonardo Gonzales,
+Angelica Danitza Ruiz Torres,
+Augusto Castañeda Oroya,
