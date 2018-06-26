@@ -11,12 +11,10 @@ Repositorio de ejemplo para el taller de git
 ### Lista de participantes:
 
 
-
-
 Elena Mateos Lopéz,
 Awes0meM4n,
 Marta Timon,
 VaqueroFontenla,
 carlosmonzon2008,
-mandarinafly
-
+mandarinafly,
+Olatz Aranzabe,
