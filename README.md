@@ -24,5 +24,6 @@ Marcos Truchado Martin,
 Leonardo Gonzales,
 Angelica Danitza Ruiz Torres,
 Augusto Castañeda Oroya,
-Carlos J (carlos-havier)        
+Carlos J (carlos-havier),
+Richard Padilla (rspadillam),
 
