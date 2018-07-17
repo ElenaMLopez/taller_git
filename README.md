@@ -7,7 +7,8 @@ Repositorio de ejemplo para el taller de git
 [Slides.com: Hello Git!!!](https://slides.com/elenam-lopez/no-liarla-parda-con-git-x-2)
 
 
-### Lista de participantes
+### Lista de participantes:
+#### Primera edición:
 
 Awes0meM4n,
 Marta Timon,
@@ -24,5 +25,7 @@ Angelica Danitza Ruiz Torres,
 Augusto Castañeda Oroya,
 Carlos J (carlos-havier),
 Richard Padilla (rspadillam),
-Abel España (@abelespana),
+Abel España (@abelespana).
 
+
+#### Segunda edición:
