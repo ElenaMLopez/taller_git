@@ -7,7 +7,7 @@
 body{
   font-family: 'Permanent Marker', cursive;
   /* Background */
-  background-image: url("../images/banana.svg");
+  background-image: url("../images/mango.svg");
   background-repeat: repeat;
   background-position: center;
   background-size: 100px;
@@ -21,7 +21,7 @@ body::after {
   top: 0 ;
   left: 0 ;
   z-index: -1 ;
-  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 37%, rgba(251,248,212,1) 55%, rgba(241,231,103,0) 100%);;
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 37%, rgba(251, 241, 212, 1) 55%, rgba(241, 194, 102, 0) 100%);
 
 }
 .container {
@@ -37,7 +37,7 @@ body::after {
 }
 
 .container > h1 {
-  color: #dbbf00;
+  color: #db7600;
 }
 .gif-container {
   margin-top: 50px;
@@ -57,8 +57,8 @@ body::after {
 /* COMPONENTES */
 /* Header */
 .header--container {
-  background-color: rgb(250, 225, 0);
-  color: rgb(29, 27, 1);
+  background-color: rgb(250, 135, 0);
+  color: rgb(255, 240, 221);
   font-size: 20px;
   font-weight: bold;
   height: 60px;
@@ -71,19 +71,19 @@ body::after {
   list-style: none;
 }
 .header--nav-link {
-  color: rgb(29, 27, 1);
+  color: rgb(255, 240, 221);
   text-decoration: none;
 }
 .header--nav-link:hover {
-  color: rgb(52, 49, 1);
+  color: rgb(249, 197, 132);
 }
 /* Fin de Header */
 
 /* Footer */
 .footer--container {
-  background-color: rgba(250, 225, 0, 0.61);
+  background-color: rgba(250, 120, 0, 0.61);
   bottom: 0;
-  color: rgb(29, 27, 1);
+  color: rgb(29, 15, 1);
   font-size: 16px;
   font-weight: bold;
   height: 50px;
@@ -99,11 +99,9 @@ body::after {
   margin-top: 10px;
 }
 .footer--link {
-  color: rgb(29, 27, 1);
+  color: rgb(255, 227, 203);
   text-decoration: none;
 }
-.footer--link {
-  color: rgb(52, 49, 1);
-}
+
 /* Fin del footer */
 /* NOTA: Se puede refactorizar, pero está así para el taller del día 19 ;) */
