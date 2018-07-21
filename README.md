@@ -29,3 +29,7 @@ Abel España (@abelespana).
 
 
 #### Segunda edición:
+
+Pablo García
+
+// muchas gracias Elena, ha sido una muy buena iniciación a git y personalmente me has aclarado muchas dudas que tenía en el tintero :)
