@@ -98,7 +98,6 @@ body::after {
   list-style: none;
   margin-top: 10px;
 }
-
 .footer--link {
   color: rgb(29, 14, 1);
   text-decoration: none;
@@ -106,4 +105,3 @@ body::after {
 
 /* Fin del footer */
 /* NOTA: Se puede refactorizar, pero está así para el taller del día 19 ;) */
-
