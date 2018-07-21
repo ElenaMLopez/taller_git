@@ -29,3 +29,5 @@ Abel España (@abelespana).
 
 
 #### Segunda edición:
+Rico Hardjono
+Irene Mateo
