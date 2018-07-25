@@ -7,6 +7,7 @@
 body{
   font-family: 'Permanent Marker', cursive;
   /* Background */
+  background-image: url("../images/mango.svg");
   background-repeat: repeat;
   background-position: center;
   background-size: 100px;
@@ -23,7 +24,6 @@ body::after {
   background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 37%, rgba(251, 241, 212, 1) 55%, rgba(241, 194, 102, 0) 100%);
 
 }
-
 .container {
   align-items: center;
   display: flex;
@@ -98,7 +98,6 @@ body::after {
   list-style: none;
   margin-top: 10px;
 }
-
 .footer--link {
   color: rgb(29, 14, 1);
   text-decoration: none;
@@ -106,4 +105,3 @@ body::after {
 
 /* Fin del footer */
 /* NOTA: Se puede refactorizar, pero está así para el taller del día 19 ;) */
-
