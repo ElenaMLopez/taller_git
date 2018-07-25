@@ -29,6 +29,7 @@ Abel España (@abelespana).
 
 
 #### Segunda edición:
+Juan Peña (jpenaperez),
 Rico Hardjono,
 Irene Mateo,
 Arturo Torres,
