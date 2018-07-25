@@ -29,5 +29,5 @@ Abel España (@abelespana).
 
 
 #### Segunda edición:
-
-Arturo Torres
+Arturo Torres,
+Raquel Villaverde (@switch_on85),
