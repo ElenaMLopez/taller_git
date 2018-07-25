@@ -7,8 +7,6 @@
 body{
   font-family: 'Permanent Marker', cursive;
   /* Background */
-  background-image: url("../images/coconut.jpg");
-
   background-repeat: repeat;
   background-position: center;
   background-size: 100px;
@@ -22,10 +20,9 @@ body::after {
   top: 0 ;
   left: 0 ;
   z-index: -1 ;
-
   background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 37%, rgba(251, 241, 212, 1) 55%, rgba(241, 194, 102, 0) 100%);
-
 }
+
 .container {
   align-items: center;
   display: flex;
@@ -39,7 +36,6 @@ body::after {
 }
 
 .container > h1 {
-
   color: #db7600;
 }
 .gif-container {
@@ -60,7 +56,6 @@ body::after {
 /* COMPONENTES */
 /* Header */
 .header--container {
-
   background-color: rgb(250, 135, 0);
   color: rgb(255, 240, 221);
   font-size: 20px;
@@ -75,7 +70,6 @@ body::after {
   list-style: none;
 }
 .header--nav-link {
-
   color: rgb(255, 240, 221);
   text-decoration: none;
 }
@@ -86,7 +80,6 @@ body::after {
 
 /* Footer */
 .footer--container {
-
   background-color: rgba(250, 120, 0, 0.61);
   bottom: 0;
   color: rgb(29, 15, 1);
