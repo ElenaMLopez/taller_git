@@ -29,3 +29,10 @@ Abel España (@abelespana).
 
 
 #### Segunda edición:
+Juan Peña (jpenaperez),
+Rico Hardjono,
+Irene Mateo,
+Arturo Torres,
+Raquel Villaverde (@switch_on85),
+Pablo García,
+Marta Ocaña (smartsies),
