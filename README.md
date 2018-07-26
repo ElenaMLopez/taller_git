@@ -29,3 +29,4 @@ Abel España (@abelespana).
 
 
 #### Segunda edición:
+Juan Antonio Lleó,
