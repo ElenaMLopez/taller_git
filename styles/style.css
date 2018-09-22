@@ -22,7 +22,6 @@ body::after {
   left: 0 ;
   z-index: -1 ;
   background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 37%, rgba(251,248,212,1) 55%, rgba(241,231,103,0) 100%);;
-
 }
 .container {
   align-items: center;
@@ -35,16 +34,13 @@ body::after {
   margin-bottom: 90px;
   width: 100%;
 }
-
 .container > h1 {
   color: #dbbf00;
 }
 .gif-container {
   margin-top: 50px;
 }
-
 @keyframes background-transition {
-
   0%{
   background-position: 0 0;
   }
@@ -52,8 +48,6 @@ body::after {
   background-position: -100px -100px;
   }
 }
-
-
 /* COMPONENTES */
 /* Header */
 .header--container {
@@ -78,7 +72,6 @@ body::after {
   color: rgb(52, 49, 1);
 }
 /* Fin de Header */
-
 /* Footer */
 .footer--container {
   background-color: rgba(250, 225, 0, 0.61);
