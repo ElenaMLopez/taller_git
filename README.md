@@ -36,12 +36,18 @@ Arturo Torres,
 Raquel Villaverde (@switch_on85),
 Pablo García,
 Marta Ocaña (smartsies),
+Juan Antonio Lleó,
 
 #### Tercera edición:
 1- 
+
 2-
+
 3-
+
 4-
+
 5-
+
 6-
 ...
