@@ -39,9 +39,9 @@ Marta Ocaña (smartsies),
 Juan Antonio Lleó,
 
 #### Tercera edición:
-1-Vicente Parra
+1-
 
-2-
+2-Vicente Parra (Nukebull)
 
 3-
 
