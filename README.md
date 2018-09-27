@@ -39,7 +39,7 @@ Marta Ocaña (smartsies),
 Juan Antonio Lleó,
 
 #### Tercera edición:
-1- 
+1-Vicente Parra
 
 2-
 
