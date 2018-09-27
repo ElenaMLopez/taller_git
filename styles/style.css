@@ -7,7 +7,11 @@
   body{
     font-family: 'Permanent Marker', cursive;
     /* Background */
+<<<<<<< HEAD
     background-image: url("../images/mango.svg");
+=======
+    background-image: url("../images/coconut.jpg");
+>>>>>>> cfb1e82ffc41c53d5dfcac917e99a7bd7221edff
     background-repeat: repeat;
     background-position: center;
     background-size: 100px;
@@ -21,7 +25,11 @@
     top: 0 ;
     left: 0 ;
     z-index: -1 ;
+<<<<<<< HEAD
     background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 37%, rgba(251, 241, 212, 1) 55%, rgba(241, 194, 102, 0) 100%);
+=======
+    background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 37%, rgba(251, 230, 212, 1) 55%, rgba(250, 156, 70, 0) 100%);
+>>>>>>> cfb1e82ffc41c53d5dfcac917e99a7bd7221edff
   
   }
   .container {
@@ -37,7 +45,11 @@
   }
   
   .container > h1 {
+<<<<<<< HEAD
     color: #db7600;
+=======
+    color: #a74100;
+>>>>>>> cfb1e82ffc41c53d5dfcac917e99a7bd7221edff
   }
   .gif-container {
     margin-top: 50px;
@@ -57,8 +69,13 @@
   /* COMPONENTES */
   /* Header */
   .header--container {
+<<<<<<< HEAD
     background-color: rgb(250, 135, 0);
     color: rgb(255, 240, 221);
+=======
+    background-color: rgb(177, 90, 0);
+    color: rgb(29, 27, 1);
+>>>>>>> cfb1e82ffc41c53d5dfcac917e99a7bd7221edff
     font-size: 20px;
     font-weight: bold;
     height: 60px;
@@ -71,19 +88,33 @@
     list-style: none;
   }
   .header--nav-link {
+<<<<<<< HEAD
     color: rgb(255, 240, 221);
     text-decoration: none;
   }
   .header--nav-link:hover {
     color: rgb(249, 197, 132);
+=======
+    color: rgb(255, 220, 195);
+    text-decoration: none;
+  }
+  .header--nav-link:hover {
+    color: rgb(238, 156, 97);
+>>>>>>> cfb1e82ffc41c53d5dfcac917e99a7bd7221edff
   }
   /* Fin de Header */
   
   /* Footer */
   .footer--container {
+<<<<<<< HEAD
     background-color: rgba(250, 120, 0, 0.61);
     bottom: 0;
     color: rgb(29, 15, 1);
+=======
+    background-color: rgba(250, 105, 0, 0.61);
+    bottom: 0;
+    color: rgba(29, 15, 1, 0.12);
+>>>>>>> cfb1e82ffc41c53d5dfcac917e99a7bd7221edff
     font-size: 16px;
     font-weight: bold;
     height: 50px;
@@ -98,11 +129,19 @@
     list-style: none;
     margin-top: 10px;
   }
+<<<<<<< HEAD
   .footer--link {
     color: rgb(29, 14, 1);
     text-decoration: none;
   }
   
+=======
+  
+  .footer--link {
+    color: rgb(255, 238, 223);
+    text-decoration: none;
+  }
+>>>>>>> cfb1e82ffc41c53d5dfcac917e99a7bd7221edff
   /* Fin del footer */
   /* NOTA: Se puede refactorizar, pero está así para el taller del día 19 ;) */
   
