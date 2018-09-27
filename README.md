@@ -41,7 +41,7 @@ Juan Antonio Lleó,
 #### Tercera edición:
 1-
 
-2-Vicente Parra (Nukebull)
+2- Vicente Parra (Nukebull)
 
 3-
 
